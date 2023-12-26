@@ -85,32 +85,32 @@ button:hover{
 @media only screen and (max-width: 800px) and (min-width: 501px) {
 
     header{
-        height: 40px;
+        height: 30px;
     }
     .container{
-        width: 60%;
+        width: 50%;
     }
     .md-title{
-        margin-left: 5px;
-        margin-right: 5px;
+        margin-left: 3px;
+        margin-right: 3px;
     }
     .md-title h1{
-        font-size: 16px;        
+        font-size: 12px;        
     }
     .sideR, .sideL{
-        font-size: 8px;
+        font-size: 6px;
     }
     section{
-        margin-top: 5px;
+        margin-top: 3px;
         width: 100%;
-        font-size: 12px;
-        padding: 5px 5px ;
+        font-size: 9px;
+        padding: 3px 3px ;
         font-weight: 600;
     }
     button{
-        width: 40px;
-        height: 40px;
-        font-size: 20px;
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
     }
 }
 
