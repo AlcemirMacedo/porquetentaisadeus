@@ -93,19 +93,22 @@ button:hover{
     .md-title{
         margin-left: 3px;
         margin-right: 3px;
+        border-radius: 5px;
     }
     .md-title h1{
         font-size: 12px;        
     }
     .sideR, .sideL{
         font-size: 6px;
+        border-radius: 5px;
     }
     section{
         margin-top: 3px;
         width: 100%;
-        font-size: 9px;
+        font-size: 8px;
         padding: 3px 3px ;
         font-weight: 600;
+        border-radius: 5px;
     }
     button{
         width: 35px;
